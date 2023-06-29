@@ -1,5 +1,5 @@
 {
-  "name": "colors-config",
+  "name": "shared-colors",
   "version": "1.0.0",
   "scripts": {
     "build": "rimraf dist/* && node build/css.cjs && node build/scss.cjs && node build/json.cjs && node build/windi.cjs",
